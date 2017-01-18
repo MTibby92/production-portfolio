@@ -1187,3 +1187,8 @@ body.vintage .about-carousel .owl-controls .owl-next,
 body.vintage .testimonials .owl-controls .owl-next {
   line-height: 55px !important;
 }
+
+.tech-stack {
+  max-height: 100%;
+  max-width: 100%;
+}
